@@ -1,0 +1,53 @@
+Java2C#-500
+Exact Match: 75.31
+Avg. BLEU Score: 95.4
+Avg. Edit Sim Score: 3.96
+BLEU > 95: 76.25
+BLEU > 90: 80.31
+BLEU > 80: 90.31
+BLEU > 60: 99.06
+
+Java2C#-200
+Exact Match: 58.13
+Avg. BLEU Score: 89.96
+Avg. Edit Sim Score: 8.98
+BLEU > 95: 58.13
+BLEU > 90: 63.12
+BLEU > 80: 79.38
+BLEU > 60: 94.06
+
+Java2C#-100
+Exact Match: 36.56
+Avg. BLEU Score: 83.49
+Avg. Edit Sim Score: 14.58
+BLEU > 95: 36.56
+BLEU > 90: 40.62
+BLEU > 80: 64.69
+BLEU > 60: 89.38
+
+C#2Java-500
+Exact Match: 67.81
+Avg. BLEU Score: 93.6
+Avg. Edit Sim Score: 6.67
+BLEU > 95: 68.75
+BLEU > 90: 76.25
+BLEU > 80: 87.81
+BLEU > 60: 97.5
+
+C#2Java-200
+Exact Match: 41.25
+Avg. BLEU Score: 85.87
+Avg. Edit Sim Score: 17.86
+BLEU > 95: 41.56
+BLEU > 90: 49.69
+BLEU > 80: 65.94
+BLEU > 60: 93.12
+
+C#2Java-100
+Exact Match: 22.19
+Avg. BLEU Score: 78.48
+Avg. Edit Sim Score: 32.5
+BLEU > 95: 22.19
+BLEU > 90: 27.81
+BLEU > 80: 49.38
+BLEU > 60: 84.38

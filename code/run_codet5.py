@@ -449,13 +449,13 @@ def main():
                     logger.info("  Best ppl:%s",round(np.exp(eval_loss),5))
                     logger.info("  "+"*"*20)
                     best_loss=eval_loss
-                    # Save best checkpoint for best ppl
-                    output_dir = os.path.join(args.output_dir, 'checkpoint-best-ppl')
-                    if not os.path.exists(output_dir):
-                        os.makedirs(output_dir)
-                    model_to_save = model.module if hasattr(model, 'module') else model  # Only save the model it-self
-                    output_model_file = os.path.join(output_dir, "pytorch_model.bin")
-                    torch.save(model_to_save.state_dict(), output_model_file)  
+                    # # Save best checkpoint for best ppl
+                    # output_dir = os.path.join(args.output_dir, 'checkpoint-best-ppl')
+                    # if not os.path.exists(output_dir):
+                    #     os.makedirs(output_dir)
+                    # model_to_save = model.module if hasattr(model, 'module') else model  # Only save the model it-self
+                    # output_model_file = os.path.join(output_dir, "pytorch_model.bin")
+                    # torch.save(model_to_save.state_dict(), output_model_file)
                             
                             
                 #Calculate bleu  
@@ -518,13 +518,13 @@ def main():
                     logger.info("  Best bleu:%s",dev_bleu)
                     logger.info("  "+"*"*20)
                     best_bleu=dev_bleu
-                    # Save best checkpoint for best bleu
-                    output_dir = os.path.join(args.output_dir, 'checkpoint-best-bleu')
-                    if not os.path.exists(output_dir):
-                        os.makedirs(output_dir)
-                    model_to_save = model.module if hasattr(model, 'module') else model  # Only save the model it-self
-                    output_model_file = os.path.join(output_dir, "pytorch_model.bin")
-                    torch.save(model_to_save.state_dict(), output_model_file)
+                    # # Save best checkpoint for best bleu
+                    # output_dir = os.path.join(args.output_dir, 'checkpoint-best-bleu')
+                    # if not os.path.exists(output_dir):
+                    #     os.makedirs(output_dir)
+                    # model_to_save = model.module if hasattr(model, 'module') else model  # Only save the model it-self
+                    # output_model_file = os.path.join(output_dir, "pytorch_model.bin")
+                    # torch.save(model_to_save.state_dict(), output_model_file)
                
     if args.do_test:
         files=[]

@@ -1,0 +1,900 @@
+C++2Java-2000
+Exact Match: 49.64
+Avg. BLEU Score: 92.63
+Avg. Edit Sim Score: 15.07
+BLEU > 95: 60.75
+BLEU > 90: 75.05
+BLEU > 80: 88.73
+BLEU > 60: 96.97
+
+C++2Java-1000
+Exact Match: 47.27
+Avg. BLEU Score: 92.11
+Avg. Edit Sim Score: 16.47
+BLEU > 95: 58.69
+BLEU > 90: 73.1
+BLEU > 80: 86.63
+BLEU > 60: 96.86
+
+C++2Java-500
+Exact Match: 44.65
+Avg. BLEU Score: 91.38
+Avg. Edit Sim Score: 18.15
+BLEU > 95: 55.4
+BLEU > 90: 70.63
+BLEU > 80: 85.49
+BLEU > 60: 96.09
+
+C++2Java-200
+Exact Match: 40.48
+Avg. BLEU Score: 90.2
+Avg. Edit Sim Score: 21.48
+BLEU > 95: 50.36
+BLEU > 90: 66.62
+BLEU > 80: 82.92
+BLEU > 60: 95.06
+
+C++2Java-100
+Exact Match: 36.63
+Avg. BLEU Score: 88.98
+Avg. Edit Sim Score: 25.73
+BLEU > 95: 45.88
+BLEU > 90: 61.93
+BLEU > 80: 80.86
+BLEU > 60: 94.44
+
+C++2C#-2000
+Exact Match: 50.77
+Avg. BLEU Score: 92.76
+Avg. Edit Sim Score: 13.86
+BLEU > 95: 60.49
+BLEU > 90: 73.51
+BLEU > 80: 88.63
+BLEU > 60: 97.12
+
+C++2C#-1000
+Exact Match: 48.61
+Avg. BLEU Score: 92.22
+Avg. Edit Sim Score: 15.26
+BLEU > 95: 59.16
+BLEU > 90: 72.43
+BLEU > 80: 86.88
+BLEU > 60: 96.81
+
+C++2C#-500
+Exact Match: 45.88
+Avg. BLEU Score: 91.56
+Avg. Edit Sim Score: 16.79
+BLEU > 95: 57.0
+BLEU > 90: 70.68
+BLEU > 80: 85.55
+BLEU > 60: 96.19
+
+C++2C#-200
+Exact Match: 41.56
+Avg. BLEU Score: 90.33
+Avg. Edit Sim Score: 20.56
+BLEU > 95: 51.29
+BLEU > 90: 65.84
+BLEU > 80: 82.66
+BLEU > 60: 95.68
+
+C++2C#-100
+Exact Match: 37.91
+Avg. BLEU Score: 89.09
+Avg. Edit Sim Score: 24.57
+BLEU > 95: 47.63
+BLEU > 90: 62.4
+BLEU > 80: 80.25
+BLEU > 60: 94.65
+
+C++2JavaScript-2000
+Exact Match: 33.69
+Avg. BLEU Score: 87.6
+Avg. Edit Sim Score: 25.07
+BLEU > 95: 39.81
+BLEU > 90: 54.17
+BLEU > 80: 76.95
+BLEU > 60: 94.39
+
+C++2JavaScript-1000
+Exact Match: 30.56
+Avg. BLEU Score: 86.66
+Avg. Edit Sim Score: 27.26
+BLEU > 95: 35.91
+BLEU > 90: 52.42
+BLEU > 80: 75.51
+BLEU > 60: 93.42
+
+C++2JavaScript-500
+Exact Match: 30.45
+Avg. BLEU Score: 86.18
+Avg. Edit Sim Score: 28.67
+BLEU > 95: 36.73
+BLEU > 90: 51.85
+BLEU > 80: 73.97
+BLEU > 60: 92.64
+
+C++2JavaScript-200
+Exact Match: 29.32
+Avg. BLEU Score: 84.88
+Avg. Edit Sim Score: 32.37
+BLEU > 95: 34.41
+BLEU > 90: 49.33
+BLEU > 80: 71.04
+BLEU > 60: 90.64
+
+C++2JavaScript-100
+Exact Match: 26.03
+Avg. BLEU Score: 83.06
+Avg. Edit Sim Score: 37.74
+BLEU > 95: 30.92
+BLEU > 90: 44.29
+BLEU > 80: 66.46
+BLEU > 60: 88.53
+
+C++2Python-2000
+Exact Match: 16.67
+Avg. BLEU Score: 79.78
+Avg. Edit Sim Score: 43.94
+BLEU > 95: 21.24
+BLEU > 90: 34.47
+BLEU > 80: 59.0
+BLEU > 60: 85.8
+
+C++2Python-1000
+Exact Match: 16.2
+Avg. BLEU Score: 79.32
+Avg. Edit Sim Score: 45.06
+BLEU > 95: 20.78
+BLEU > 90: 32.97
+BLEU > 80: 56.33
+BLEU > 60: 85.34
+
+C++2Python-500
+Exact Match: 14.35
+Avg. BLEU Score: 78.83
+Avg. Edit Sim Score: 48.08
+BLEU > 95: 19.8
+BLEU > 90: 32.51
+BLEU > 80: 56.28
+BLEU > 60: 84.77
+
+C++2Python-200
+Exact Match: 13.01
+Avg. BLEU Score: 76.8
+Avg. Edit Sim Score: 55.36
+BLEU > 95: 17.13
+BLEU > 90: 28.14
+BLEU > 80: 51.39
+BLEU > 60: 81.69
+
+C++2Python-100
+Exact Match: 11.57
+Avg. BLEU Score: 74.77
+Avg. Edit Sim Score: 64.92
+BLEU > 95: 14.66
+BLEU > 90: 24.28
+BLEU > 80: 46.14
+BLEU > 60: 79.53
+
+Java2C++-2000
+Exact Match: 48.05
+Avg. BLEU Score: 92.45
+Avg. Edit Sim Score: 14.2
+BLEU > 95: 58.49
+BLEU > 90: 72.63
+BLEU > 80: 88.17
+BLEU > 60: 97.27
+
+Java2C++-1000
+Exact Match: 46.3
+Avg. BLEU Score: 91.98
+Avg. Edit Sim Score: 14.85
+BLEU > 95: 57.15
+BLEU > 90: 70.27
+BLEU > 80: 86.78
+BLEU > 60: 97.48
+
+Java2C++-500
+Exact Match: 44.34
+Avg. BLEU Score: 91.51
+Avg. Edit Sim Score: 16.22
+BLEU > 95: 55.5
+BLEU > 90: 68.98
+BLEU > 80: 86.01
+BLEU > 60: 96.97
+
+Java2C++-200
+Exact Match: 40.84
+Avg. BLEU Score: 90.69
+Avg. Edit Sim Score: 17.99
+BLEU > 95: 51.59
+BLEU > 90: 66.2
+BLEU > 80: 83.95
+BLEU > 60: 96.24
+
+Java2C++-100
+Exact Match: 35.7
+Avg. BLEU Score: 89.26
+Avg. Edit Sim Score: 22.78
+BLEU > 95: 45.94
+BLEU > 90: 61.57
+BLEU > 80: 80.5
+BLEU > 60: 95.73
+
+Java2C#-2000
+Exact Match: 74.74
+Avg. BLEU Score: 97.24
+Avg. Edit Sim Score: 5.96
+BLEU > 95: 84.31
+BLEU > 90: 90.9
+BLEU > 80: 96.3
+BLEU > 60: 99.33
+
+Java2C#-1000
+Exact Match: 74.43
+Avg. BLEU Score: 97.14
+Avg. Edit Sim Score: 6.27
+BLEU > 95: 84.05
+BLEU > 90: 90.28
+BLEU > 80: 95.94
+BLEU > 60: 99.23
+
+Java2C#-500
+Exact Match: 72.07
+Avg. BLEU Score: 96.95
+Avg. Edit Sim Score: 7.02
+BLEU > 95: 83.54
+BLEU > 90: 89.71
+BLEU > 80: 95.58
+BLEU > 60: 99.23
+
+Java2C#-200
+Exact Match: 67.18
+Avg. BLEU Score: 96.4
+Avg. Edit Sim Score: 8.65
+BLEU > 95: 80.4
+BLEU > 90: 87.86
+BLEU > 80: 94.91
+BLEU > 60: 99.07
+
+Java2C#-100
+Exact Match: 63.58
+Avg. BLEU Score: 95.33
+Avg. Edit Sim Score: 12.88
+BLEU > 95: 75.46
+BLEU > 90: 83.38
+BLEU > 80: 92.39
+BLEU > 60: 98.56
+
+Java2JavaScript-2000
+Exact Match: 34.57
+Avg. BLEU Score: 88.29
+Avg. Edit Sim Score: 23.05
+BLEU > 95: 40.33
+BLEU > 90: 56.28
+BLEU > 80: 79.99
+BLEU > 60: 95.32
+
+Java2JavaScript-1000
+Exact Match: 34.31
+Avg. BLEU Score: 88.09
+Avg. Edit Sim Score: 24.02
+BLEU > 95: 40.07
+BLEU > 90: 56.02
+BLEU > 80: 79.42
+BLEU > 60: 94.75
+
+Java2JavaScript-500
+Exact Match: 33.85
+Avg. BLEU Score: 87.49
+Avg. Edit Sim Score: 25.71
+BLEU > 95: 39.61
+BLEU > 90: 55.14
+BLEU > 80: 77.01
+BLEU > 60: 94.29
+
+Java2JavaScript-200
+Exact Match: 31.28
+Avg. BLEU Score: 86.34
+Avg. Edit Sim Score: 29.39
+BLEU > 95: 36.99
+BLEU > 90: 51.54
+BLEU > 80: 74.95
+BLEU > 60: 92.95
+
+Java2JavaScript-100
+Exact Match: 30.92
+Avg. BLEU Score: 85.22
+Avg. Edit Sim Score: 33.79
+BLEU > 95: 35.85
+BLEU > 90: 49.69
+BLEU > 80: 72.07
+BLEU > 60: 91.26
+
+Java2Python-2000
+Exact Match: 15.12
+Avg. BLEU Score: 79.27
+Avg. Edit Sim Score: 44.79
+BLEU > 95: 20.42
+BLEU > 90: 32.87
+BLEU > 80: 57.72
+BLEU > 60: 84.83
+
+Java2Python-1000
+Exact Match: 14.35
+Avg. BLEU Score: 78.58
+Avg. Edit Sim Score: 47.12
+BLEU > 95: 19.14
+BLEU > 90: 30.71
+BLEU > 80: 55.35
+BLEU > 60: 84.67
+
+Java2Python-500
+Exact Match: 12.96
+Avg. BLEU Score: 77.72
+Avg. Edit Sim Score: 51.06
+BLEU > 95: 17.59
+BLEU > 90: 30.09
+BLEU > 80: 53.5
+BLEU > 60: 83.64
+
+Java2Python-200
+Exact Match: 12.14
+Avg. BLEU Score: 76.18
+Avg. Edit Sim Score: 56.72
+BLEU > 95: 16.15
+BLEU > 90: 26.13
+BLEU > 80: 50.15
+BLEU > 60: 80.5
+
+Java2Python-100
+Exact Match: 10.03
+Avg. BLEU Score: 73.41
+Avg. Edit Sim Score: 68.05
+BLEU > 95: 12.6
+BLEU > 90: 21.19
+BLEU > 80: 43.57
+BLEU > 60: 77.26
+
+C#2C++-2000
+Exact Match: 47.69
+Avg. BLEU Score: 92.18
+Avg. Edit Sim Score: 14.87
+BLEU > 95: 57.36
+BLEU > 90: 70.73
+BLEU > 80: 87.71
+BLEU > 60: 97.22
+
+C#2C++-1000
+Exact Match: 44.6
+Avg. BLEU Score: 91.58
+Avg. Edit Sim Score: 16.03
+BLEU > 95: 54.94
+BLEU > 90: 68.52
+BLEU > 80: 86.32
+BLEU > 60: 97.33
+
+C#2C++-500
+Exact Match: 42.8
+Avg. BLEU Score: 91.13
+Avg. Edit Sim Score: 16.76
+BLEU > 95: 53.5
+BLEU > 90: 67.8
+BLEU > 80: 84.77
+BLEU > 60: 96.5
+
+C#2C++-200
+Exact Match: 37.45
+Avg. BLEU Score: 89.87
+Avg. Edit Sim Score: 19.94
+BLEU > 95: 47.27
+BLEU > 90: 63.22
+BLEU > 80: 82.36
+BLEU > 60: 95.88
+
+C#2C++-100
+Exact Match: 35.65
+Avg. BLEU Score: 88.94
+Avg. Edit Sim Score: 24.1
+BLEU > 95: 45.22
+BLEU > 90: 59.77
+BLEU > 80: 80.45
+BLEU > 60: 95.01
+
+C#2Java-2000
+Exact Match: 71.04
+Avg. BLEU Score: 97.16
+Avg. Edit Sim Score: 6.77
+BLEU > 95: 83.28
+BLEU > 90: 91.05
+BLEU > 80: 96.71
+BLEU > 60: 99.33
+
+C#2Java-1000
+Exact Match: 69.19
+Avg. BLEU Score: 96.99
+Avg. Edit Sim Score: 7.25
+BLEU > 95: 81.69
+BLEU > 90: 90.53
+BLEU > 80: 96.86
+BLEU > 60: 99.38
+
+C#2Java-500
+Exact Match: 67.39
+Avg. BLEU Score: 96.78
+Avg. Edit Sim Score: 7.96
+BLEU > 95: 81.58
+BLEU > 90: 90.17
+BLEU > 80: 96.5
+BLEU > 60: 99.23
+
+C#2Java-200
+Exact Match: 64.25
+Avg. BLEU Score: 96.11
+Avg. Edit Sim Score: 9.62
+BLEU > 95: 78.65
+BLEU > 90: 88.27
+BLEU > 80: 95.01
+BLEU > 60: 98.66
+
+C#2Java-100
+Exact Match: 60.29
+Avg. BLEU Score: 94.91
+Avg. Edit Sim Score: 14.87
+BLEU > 95: 72.69
+BLEU > 90: 83.33
+BLEU > 80: 92.34
+BLEU > 60: 98.1
+
+C#2JavaScript-2000
+Exact Match: 34.31
+Avg. BLEU Score: 88.23
+Avg. Edit Sim Score: 22.93
+BLEU > 95: 40.38
+BLEU > 90: 55.76
+BLEU > 80: 79.22
+BLEU > 60: 95.27
+
+C#2JavaScript-1000
+Exact Match: 33.64
+Avg. BLEU Score: 87.81
+Avg. Edit Sim Score: 24.25
+BLEU > 95: 38.89
+BLEU > 90: 54.17
+BLEU > 80: 77.42
+BLEU > 60: 94.91
+
+C#2JavaScript-500
+Exact Match: 31.79
+Avg. BLEU Score: 87.28
+Avg. Edit Sim Score: 25.39
+BLEU > 95: 37.86
+BLEU > 90: 52.62
+BLEU > 80: 77.11
+BLEU > 60: 94.44
+
+C#2JavaScript-200
+Exact Match: 30.66
+Avg. BLEU Score: 86.15
+Avg. Edit Sim Score: 28.63
+BLEU > 95: 36.27
+BLEU > 90: 50.46
+BLEU > 80: 74.59
+BLEU > 60: 92.59
+
+C#2JavaScript-100
+Exact Match: 28.91
+Avg. BLEU Score: 85.02
+Avg. Edit Sim Score: 33.33
+BLEU > 95: 33.69
+BLEU > 90: 47.74
+BLEU > 80: 70.83
+BLEU > 60: 91.87
+
+C#2Python-2000
+Exact Match: 15.23
+Avg. BLEU Score: 79.11
+Avg. Edit Sim Score: 45.18
+BLEU > 95: 20.88
+BLEU > 90: 32.41
+BLEU > 80: 57.3
+BLEU > 60: 85.13
+
+C#2Python-1000
+Exact Match: 14.51
+Avg. BLEU Score: 78.6
+Avg. Edit Sim Score: 47.64
+BLEU > 95: 19.39
+BLEU > 90: 30.4
+BLEU > 80: 55.45
+BLEU > 60: 84.83
+
+C#2Python-500
+Exact Match: 13.17
+Avg. BLEU Score: 77.68
+Avg. Edit Sim Score: 51.63
+BLEU > 95: 17.75
+BLEU > 90: 30.2
+BLEU > 80: 53.5
+BLEU > 60: 83.23
+
+C#2Python-200
+Exact Match: 12.4
+Avg. BLEU Score: 76.56
+Avg. Edit Sim Score: 56.41
+BLEU > 95: 16.56
+BLEU > 90: 26.44
+BLEU > 80: 51.44
+BLEU > 60: 81.28
+
+C#2Python-100
+Exact Match: 10.19
+Avg. BLEU Score: 73.92
+Avg. Edit Sim Score: 67.1
+BLEU > 95: 12.71
+BLEU > 90: 22.58
+BLEU > 80: 44.8
+BLEU > 60: 78.14
+
+JavaScript2C++-2000
+Exact Match: 39.87
+Avg. BLEU Score: 89.73
+Avg. Edit Sim Score: 18.8
+BLEU > 95: 48.35
+BLEU > 90: 62.6
+BLEU > 80: 81.48
+BLEU > 60: 95.27
+
+JavaScript2C++-1000
+Exact Match: 37.4
+Avg. BLEU Score: 89.31
+Avg. Edit Sim Score: 19.78
+BLEU > 95: 46.45
+BLEU > 90: 61.68
+BLEU > 80: 80.71
+BLEU > 60: 95.37
+
+JavaScript2C++-500
+Exact Match: 35.91
+Avg. BLEU Score: 88.39
+Avg. Edit Sim Score: 22.14
+BLEU > 95: 44.5
+BLEU > 90: 59.0
+BLEU > 80: 77.83
+BLEU > 60: 93.78
+
+JavaScript2C++-200
+Exact Match: 30.4
+Avg. BLEU Score: 86.23
+Avg. Edit Sim Score: 26.65
+BLEU > 95: 38.68
+BLEU > 90: 52.47
+BLEU > 80: 73.51
+BLEU > 60: 92.08
+
+JavaScript2C++-100
+Exact Match: 25.41
+Avg. BLEU Score: 84.31
+Avg. Edit Sim Score: 32.72
+BLEU > 95: 32.05
+BLEU > 90: 46.5
+BLEU > 80: 69.08
+BLEU > 60: 90.17
+
+JavaScript2Java-2000
+Exact Match: 42.49
+Avg. BLEU Score: 90.85
+Avg. Edit Sim Score: 18.24
+BLEU > 95: 52.57
+BLEU > 90: 67.9
+BLEU > 80: 83.95
+BLEU > 60: 96.4
+
+JavaScript2Java-1000
+Exact Match: 40.07
+Avg. BLEU Score: 90.26
+Avg. Edit Sim Score: 19.86
+BLEU > 95: 50.77
+BLEU > 90: 65.23
+BLEU > 80: 83.28
+BLEU > 60: 96.09
+
+JavaScript2Java-500
+Exact Match: 37.71
+Avg. BLEU Score: 89.32
+Avg. Edit Sim Score: 21.37
+BLEU > 95: 47.38
+BLEU > 90: 62.19
+BLEU > 80: 81.07
+BLEU > 60: 95.32
+
+JavaScript2Java-200
+Exact Match: 32.87
+Avg. BLEU Score: 87.79
+Avg. Edit Sim Score: 24.68
+BLEU > 95: 41.98
+BLEU > 90: 56.69
+BLEU > 80: 76.9
+BLEU > 60: 94.44
+
+JavaScript2Java-100
+Exact Match: 27.83
+Avg. BLEU Score: 85.85
+Avg. Edit Sim Score: 31.96
+BLEU > 95: 36.32
+BLEU > 90: 51.23
+BLEU > 80: 72.17
+BLEU > 60: 93.21
+
+JavaScript2C#-2000
+Exact Match: 44.75
+Avg. BLEU Score: 90.94
+Avg. Edit Sim Score: 16.27
+BLEU > 95: 54.32
+BLEU > 90: 67.34
+BLEU > 80: 84.31
+BLEU > 60: 96.4
+
+JavaScript2C#-1000
+Exact Match: 41.98
+Avg. BLEU Score: 90.22
+Avg. Edit Sim Score: 18.33
+BLEU > 95: 51.8
+BLEU > 90: 64.92
+BLEU > 80: 82.05
+BLEU > 60: 96.19
+
+JavaScript2C#-500
+Exact Match: 39.3
+Avg. BLEU Score: 89.47
+Avg. Edit Sim Score: 19.42
+BLEU > 95: 49.79
+BLEU > 90: 62.5
+BLEU > 80: 80.97
+BLEU > 60: 95.58
+
+JavaScript2C#-200
+Exact Match: 35.65
+Avg. BLEU Score: 88.3
+Avg. Edit Sim Score: 21.84
+BLEU > 95: 44.39
+BLEU > 90: 56.69
+BLEU > 80: 77.31
+BLEU > 60: 95.01
+
+JavaScript2C#-100
+Exact Match: 31.07
+Avg. BLEU Score: 85.86
+Avg. Edit Sim Score: 30.81
+BLEU > 95: 38.01
+BLEU > 90: 50.72
+BLEU > 80: 72.27
+BLEU > 60: 92.39
+
+JavaScript2Python-2000
+Exact Match: 15.28
+Avg. BLEU Score: 78.33
+Avg. Edit Sim Score: 47.68
+BLEU > 95: 19.86
+BLEU > 90: 30.3
+BLEU > 80: 54.53
+BLEU > 60: 83.49
+
+JavaScript2Python-1000
+Exact Match: 13.79
+Avg. BLEU Score: 77.56
+Avg. Edit Sim Score: 50.32
+BLEU > 95: 17.95
+BLEU > 90: 28.19
+BLEU > 80: 52.06
+BLEU > 60: 82.87
+
+JavaScript2Python-500
+Exact Match: 12.65
+Avg. BLEU Score: 76.91
+Avg. Edit Sim Score: 53.75
+BLEU > 95: 16.46
+BLEU > 90: 27.98
+BLEU > 80: 51.23
+BLEU > 60: 82.2
+
+JavaScript2Python-200
+Exact Match: 11.78
+Avg. BLEU Score: 75.12
+Avg. Edit Sim Score: 61.15
+BLEU > 95: 15.69
+BLEU > 90: 24.33
+BLEU > 80: 47.63
+BLEU > 60: 78.86
+
+JavaScript2Python-100
+Exact Match: 9.98
+Avg. BLEU Score: 72.17
+Avg. Edit Sim Score: 72.26
+BLEU > 95: 12.4
+BLEU > 90: 20.52
+BLEU > 80: 41.26
+BLEU > 60: 74.69
+
+Python2C++-2000
+Exact Match: 23.56
+Avg. BLEU Score: 85.36
+Avg. Edit Sim Score: 24.9
+BLEU > 95: 30.66
+BLEU > 90: 47.12
+BLEU > 80: 71.3
+BLEU > 60: 93.83
+
+Python2C++-1000
+Exact Match: 21.86
+Avg. BLEU Score: 84.61
+Avg. Edit Sim Score: 26.73
+BLEU > 95: 28.86
+BLEU > 90: 44.65
+BLEU > 80: 69.03
+BLEU > 60: 93.0
+
+Python2C++-500
+Exact Match: 19.08
+Avg. BLEU Score: 83.07
+Avg. Edit Sim Score: 30.04
+BLEU > 95: 26.18
+BLEU > 90: 39.66
+BLEU > 80: 65.28
+BLEU > 60: 91.31
+
+Python2C++-200
+Exact Match: 15.43
+Avg. BLEU Score: 80.05
+Avg. Edit Sim Score: 35.95
+BLEU > 95: 19.29
+BLEU > 90: 31.12
+BLEU > 80: 56.38
+BLEU > 60: 88.73
+
+Python2C++-100
+Exact Match: 11.93
+Avg. BLEU Score: 76.22
+Avg. Edit Sim Score: 46.46
+BLEU > 95: 14.87
+BLEU > 90: 25.51
+BLEU > 80: 48.3
+BLEU > 60: 82.05
+
+Python2Java-2000
+Exact Match: 23.51
+Avg. BLEU Score: 84.92
+Avg. Edit Sim Score: 27.85
+BLEU > 95: 30.2
+BLEU > 90: 46.86
+BLEU > 80: 70.47
+BLEU > 60: 92.59
+
+Python2Java-1000
+Exact Match: 20.37
+Avg. BLEU Score: 83.76
+Avg. Edit Sim Score: 30.5
+BLEU > 95: 27.67
+BLEU > 90: 43.93
+BLEU > 80: 68.21
+BLEU > 60: 91.26
+
+Python2Java-500
+Exact Match: 16.41
+Avg. BLEU Score: 81.67
+Avg. Edit Sim Score: 34.71
+BLEU > 95: 22.58
+BLEU > 90: 37.14
+BLEU > 80: 62.96
+BLEU > 60: 88.94
+
+Python2Java-200
+Exact Match: 13.89
+Avg. BLEU Score: 79.36
+Avg. Edit Sim Score: 40.14
+BLEU > 95: 18.88
+BLEU > 90: 31.22
+BLEU > 80: 56.64
+BLEU > 60: 86.73
+
+Python2Java-100
+Exact Match: 9.67
+Avg. BLEU Score: 74.25
+Avg. Edit Sim Score: 53.41
+BLEU > 95: 12.19
+BLEU > 90: 22.07
+BLEU > 80: 44.6
+BLEU > 60: 79.17
+
+Python2C#-2000
+Exact Match: 24.38
+Avg. BLEU Score: 85.31
+Avg. Edit Sim Score: 26.42
+BLEU > 95: 33.13
+BLEU > 90: 48.3
+BLEU > 80: 71.76
+BLEU > 60: 92.95
+
+Python2C#-1000
+Exact Match: 21.09
+Avg. BLEU Score: 83.91
+Avg. Edit Sim Score: 29.01
+BLEU > 95: 29.22
+BLEU > 90: 43.62
+BLEU > 80: 67.9
+BLEU > 60: 91.41
+
+Python2C#-500
+Exact Match: 17.08
+Avg. BLEU Score: 81.93
+Avg. Edit Sim Score: 33.37
+BLEU > 95: 24.07
+BLEU > 90: 37.35
+BLEU > 80: 63.73
+BLEU > 60: 89.25
+
+Python2C#-200
+Exact Match: 14.04
+Avg. BLEU Score: 79.02
+Avg. Edit Sim Score: 39.53
+BLEU > 95: 18.11
+BLEU > 90: 29.63
+BLEU > 80: 56.69
+BLEU > 60: 86.16
+
+Python2C#-100
+Exact Match: 10.7
+Avg. BLEU Score: 75.73
+Avg. Edit Sim Score: 48.5
+BLEU > 95: 13.58
+BLEU > 90: 24.28
+BLEU > 80: 48.61
+BLEU > 60: 81.07
+
+Python2JavaScript-2000
+Exact Match: 18.06
+Avg. BLEU Score: 81.75
+Avg. Edit Sim Score: 33.78
+BLEU > 95: 22.22
+BLEU > 90: 34.83
+BLEU > 80: 61.52
+BLEU > 60: 90.84
+
+Python2JavaScript-1000
+Exact Match: 16.87
+Avg. BLEU Score: 80.46
+Avg. Edit Sim Score: 37.19
+BLEU > 95: 20.01
+BLEU > 90: 32.97
+BLEU > 80: 57.66
+BLEU > 60: 89.2
+
+Python2JavaScript-500
+Exact Match: 14.4
+Avg. BLEU Score: 79.26
+Avg. Edit Sim Score: 39.36
+BLEU > 95: 18.11
+BLEU > 90: 29.48
+BLEU > 80: 56.33
+BLEU > 60: 86.37
+
+Python2JavaScript-200
+Exact Match: 10.49
+Avg. BLEU Score: 76.25
+Avg. Edit Sim Score: 46.67
+BLEU > 95: 13.53
+BLEU > 90: 23.71
+BLEU > 80: 47.94
+BLEU > 60: 82.87
+
+Python2JavaScript-100
+Exact Match: 9.16
+Avg. BLEU Score: 72.59
+Avg. Edit Sim Score: 56.17
+BLEU > 95: 11.52
+BLEU > 90: 19.91
+BLEU > 80: 40.74
+BLEU > 60: 76.39
+
